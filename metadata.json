@@ -1,0 +1,7 @@
+{
+  "name": "Deutsch-Sprachgenerator Pro",
+  "description": "Eine professionelle Text-zu-Sprache-Anwendung mit Fokus auf deutsche Dialekte und Lernniveaus.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
